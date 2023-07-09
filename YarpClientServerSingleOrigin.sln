@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{FAFDCD20-D0F8-43BF-AF00-E010F8021BB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{C8661907-E6FD-422E-B506-216E273D4560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FAFDCD20-D0F8-43BF-AF00-E010F8021BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAFDCD20-D0F8-43BF-AF00-E010F8021BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAFDCD20-D0F8-43BF-AF00-E010F8021BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8661907-E6FD-422E-B506-216E273D4560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8661907-E6FD-422E-B506-216E273D4560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8661907-E6FD-422E-B506-216E273D4560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8661907-E6FD-422E-B506-216E273D4560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSOW5m4kdcunJLx5tQXemWlhuzfeiiaDAksm23G+1RJdKN2GOL1LfkPFzSfHrTe44wQnuQnNhwffV95hOwAJCA==",
+  "success": true,
+  "projectFilePath": "/Users/vincentcifello/Documents/Computer/vindotnet/swimburgerYARP/YarpClientServerSingleOrigin/Proxy/Proxy.csproj",
+  "expectedPackageFiles": [
+    "/Users/vincentcifello/.nuget/packages/system.io.hashing/7.0.0/system.io.hashing.7.0.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/yarp.reverseproxy/2.0.1/yarp.reverseproxy.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
