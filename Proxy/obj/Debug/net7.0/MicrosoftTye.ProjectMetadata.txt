@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: /Users/vincentcifello/Documents/Computer/vindotnet/swimburgerYARP/YarpClientServerSingleOrigin/Proxy/bin/Debug/net7.0/Proxy
+RunArguments:
+TargetPath: /Users/vincentcifello/Documents/Computer/vindotnet/swimburgerYARP/YarpClientServerSingleOrigin/Proxy/bin/Debug/net7.0/Proxy.dll
+PublishDir: bin/Debug/net7.0/publish/
+AssemblyName: Proxy
+IntermediateOutputPath: obj/Debug/net7.0/
+TargetFramework: net7.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 7.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
+AzureFunctionsVersion:

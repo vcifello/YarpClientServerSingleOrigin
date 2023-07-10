@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: dotnet
+RunArguments: "/Users/vincentcifello/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/7.0.5/build/../tools/blazor-devserver.dll" --applicationpath "/Users/vincentcifello/Documents/Computer/vindotnet/swimburgerYARP/YarpClientServerSingleOrigin/Client/bin/Debug/net7.0/Client.dll"
+TargetPath: /Users/vincentcifello/Documents/Computer/vindotnet/swimburgerYARP/YarpClientServerSingleOrigin/Client/bin/Debug/net7.0/Client.dll
+PublishDir: bin/Debug/net7.0/browser-wasm/publish/
+AssemblyName: Client
+IntermediateOutputPath: obj/Debug/net7.0/
+TargetFramework: net7.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 7.0
+FrameworkReference: Microsoft.NETCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb:
+AzureFunctionsVersion:
